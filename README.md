@@ -8,10 +8,16 @@
 # Travlendar+
 
 Travlendar+ is a calendar based application whose goal is to help registered Users organize their day by scheduling their appointments and providing the best solutions in terms of mobility.
+
 The application allow Users to create a meeting for a specified time, producing a feedback of feasibility according to the other appointments and providing Users with a list of travel options leveraging Users preferences.
-The System will produce a warning if a new appointment creates any schedule conflicts, for instance if the time overlaps with another meeting or if the location is not reachable on time. In this case, Users won’t be allowed to create the event. 
-Other than the standard ones, Travlendar+ offers two particular type of events: recurrent and flexible events. Flexible meetings can be scheduled in a determined window of time and with a specified minimum duration.
-Recurrent events, instead, can be scheduled for more than one day with a frequency of repetition selected by the User. Finally, Travlendar+ provides a booking functionality.
+The System will produce a warning if a new appointment creates any schedule conflicts, for instance if the time overlaps with another meeting or if the location is not reachable on time. 
+In this case, Users won’t be allowed to create the event. 
+
+Other than the standard ones, Travlendar+ offers two particular type of events: recurrent and flexible events. 
+Flexible meetings can be scheduled in a determined window of time and with a specified minimum duration.
+Recurrent events, instead, can be scheduled for more than one day with a frequency of repetition selected by the User. 
+
+Finally, Travlendar+ provides a booking functionality.
 
 ## Installation
 
