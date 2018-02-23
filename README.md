@@ -1,9 +1,17 @@
+<p align="center">
+  <img height="100" src="https://github.com/tmscarla/Travlendar/blob/master/Images/logo_blue.png">
+</p>
+<p align="center">
+  <img width="450" src="https://github.com/tmscarla/Travlendar/blob/master/Images/logo_inline.png">
+</p>
+
 # Travlendar+
 
 Travlendar+ is a calendar based application whose goal is to help registered Users organize their day by scheduling their appointments and providing the best solutions in terms of mobility.
-The application allow Users to create a meeting for a specified time, producing a feedback of feasibility according to the other appointments and providing Users with a list of travel options leveraging Users preferences and additional informations such as traffic and weather. Once created, events can be modified or deleted at any time up to the moment they start. Furthermore, each appointment can be assigned to a specific class (e.g. business, family, personal, etc) previously defined by Users. The System will produce a warning if a new appointment creates any schedule conflicts, for instance if the time overlaps with another meeting or if the location is not reachable on time. In this case, Users won’t be allowed to create the event. Travlendar+ implements a notification System: Users may chose whether to be notified a certain time before the event or not.
-Users are able to express their preferences and constraints concerning certain means of travel. For example, traveling by bicycle or on foot is allowed only on distances shorter than a given threshold, public transport or taxis, if available, may be preferred to the use of a personal car.
-Other than the standard ones, Travlendar+ offers two particular type of events: recurrent and flexible events. Flexible meetings can be scheduled in a determined window of time and with a specified minimum duration (e.g., going to gym may imply at least 1.30h of training but does not necessarily need to start at a specific time). Recurrent events, instead, can be scheduled for more than one day with a frequency of repetition selected by the User. Finally, Travlendar+ provides a booking functionality allowing Users to purchase public transports tickets, reserve a taxi or locate the nearest car or bike of a vehicle sharing service through the use of third party platforms.
+The application allow Users to create a meeting for a specified time, producing a feedback of feasibility according to the other appointments and providing Users with a list of travel options leveraging Users preferences.
+The System will produce a warning if a new appointment creates any schedule conflicts, for instance if the time overlaps with another meeting or if the location is not reachable on time. In this case, Users won’t be allowed to create the event. 
+Other than the standard ones, Travlendar+ offers two particular type of events: recurrent and flexible events. Flexible meetings can be scheduled in a determined window of time and with a specified minimum duration.
+Recurrent events, instead, can be scheduled for more than one day with a frequency of repetition selected by the User. Finally, Travlendar+ provides a booking functionality.
 
 ## Installation
 
