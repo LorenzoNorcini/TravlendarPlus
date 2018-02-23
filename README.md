@@ -30,6 +30,15 @@ The following documents are provided:
 - [Design Document](https://github.com/LorenzoNorcini/TravlendarPlus/blob/master/Documentation/Design%20Document.pdf)
 - [Implementation and Testing Decument](https://github.com/LorenzoNorcini/TravlendarPlus/blob/master/Documentation/Implementation%20and%20Testing%20Decument.pdf)
 
+## Developed by
+
+- [Guglielmo Menchetti](https://github.com/gmenchetti)
+- [Lorenzo Norcini](https://github.com/LorenzoNorcini)
+- [Tommaso Scarlatti](https://github.com/tmscarla)
+
+## License
+Licensed under the terms of the [MIT License](http://en.wikipedia.org/wiki/MIT_License). See attached file LICENSE.
+
 ## Project Presentation
 
 ![](https://github.com/LorenzoNorcini/TravlendarPlus/blob/master/Slides/Images/Slides.001.png)
