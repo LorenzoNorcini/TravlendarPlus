@@ -28,7 +28,7 @@ Installation instructions are available [here](https://github.com/LorenzoNorcini
 The following documents are provided:
 - [Requirement Analysis and Specification Document](https://github.com/LorenzoNorcini/TravlendarPlus/blob/master/Documentation/Requirement%20Analysis%20and%20Specification%20Document.pdf)
 - [Design Document](https://github.com/LorenzoNorcini/TravlendarPlus/blob/master/Documentation/Design%20Document.pdf)
-- [Implementation and Testing Decument](https://github.com/LorenzoNorcini/TravlendarPlus/blob/master/Documentation/Implementation%20and%20Testing%20Decument.pdf)
+- [Implementation and Testing Document](https://github.com/LorenzoNorcini/TravlendarPlus/blob/master/Documentation/Implementation%20and%20Testing%20Decument.pdf)
 
 ## Developed by
 
